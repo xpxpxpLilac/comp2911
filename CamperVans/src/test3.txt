@@ -1,0 +1,29 @@
+Location CBD Wicked Automatic         
+Location CBD Zeppelin Automatic 
+Location CBD Floyd Automatic          
+
+Location Penrith Queen Manual      
+   
+Location Cremorne Nirvana Automatic
+   
+Location Sutherland Purple Manual     
+Location Sutherland Hendrix Manual   
+Location Sutherland Eagle Manual     
+
+Request 1 5 Jul 14 12 Jul 22 1 Automatic 2 Manual  
+      # 5:00 July 18 to 12:00 July 20
+      # CBD Wicked; Penrith Queen ;Sutherland Purple
+Request 2 19 Jul 18 10 Jul 24 2 Automatic 
+	  # 19:00 July 18 to 10:00 July 24
+	  # CBD Zeppelin Floyd
+Request 3 14 Jul 17 12 Jul 20 2 Manual 1 Automatic  
+	  #  Sutherland Hendrix Eagle; Cremorne Nirvana
+Change 2 13 Jul 18 21 Jul 19 1 Automatic
+	  # CBD Zeppelin
+Change 2 10 Jul 19 20 Jul 23 2 Manual 3 Automatic
+	  # change rejected
+Cancel 1
+Request 5 13 Jul 20 12 Jul 24 3 Manual 1 Automatic
+	  # Penrith Queen ;Sutherland Purple Hendrix; CBD Wicked
+
+Print Cremorne
